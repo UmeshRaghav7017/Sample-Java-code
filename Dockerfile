@@ -1,5 +1,5 @@
 # Use official OpenJDK image
-FROM eclipse-temurin:17-jdk-alpine
+FROM eclipse-temurin:25-jdk-alpine
 
 # App directory create karo
 WORKDIR /app
